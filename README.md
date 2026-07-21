@@ -34,7 +34,7 @@ tech-solutions-proyectos/
 │   ├── php/Dockerfile               # Imagen PHP 8.2-FPM + extensiones + Composer
 │   └── nginx/default.conf           # Configuración de Nginx → PHP-FPM
 └── docker-compose.yml               # Orquesta los 3 contenedores: app, nginx, db
-\```
+```
 
 ## Requisitos previos
 
