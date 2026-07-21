@@ -48,7 +48,7 @@ dentro de los contenedores.
 
 **1. Clona el repositorio:**
 ```bash
-git clone https://github.com/TU-USUARIO/tech-solutions-gestion-proyectos.git
+git clone https://github.com/ezequieltobar/tech-solutions-gestion-proyectos
 cd tech-solutions-gestion-proyectos
 ```
 
