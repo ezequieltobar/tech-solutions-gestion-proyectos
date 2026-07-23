@@ -31,7 +31,7 @@ class UfService
      */
     public function obtenerValorUf(): array
     {
-        $valorSimulado = round(rand(3800000, 3900000) / 100, 2);
+        $valorSimulado = round(rand(4000000, 4100000) / 100, 2);
 
         return [
             'fecha' => now()->format('d-m-Y'),
